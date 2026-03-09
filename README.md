@@ -252,12 +252,6 @@ Algunas extensiones que se pueden añadir fácilmente:
 
 ---
 
-# Licencia
-
-MIT License
-
----
-
 # Autor
 
 Script desarrollado para automatizar la publicación de **guías docentes GAUSS en CKAN**.
